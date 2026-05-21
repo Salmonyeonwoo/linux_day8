@@ -10,3 +10,6 @@ new file: README.md
 내 이름은 박연우입니다
 hello2
 hello5
+hello6
+hello7
+hello8
