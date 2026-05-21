@@ -1,0 +1,8 @@
+# .gitignore 예시
+node_modules/ # 디렉터리 전체
+*.log # 패턴 매칭
+.env # 비밀 파일 ★
+__pycache__/
+.DS_Store # macOS 메타파일
+/build # 루트의 build만
+!important.log # 예외 (!로 해제)
