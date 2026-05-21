@@ -6,3 +6,4 @@ $ git add README.md
 $ git status
 new file: README.md
 1
+2
